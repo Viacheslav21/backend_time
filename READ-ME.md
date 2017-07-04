@@ -1,5 +1,6 @@
 
-https://circleci.com/gh/Viacheslav21/backend_time.png?circle-token=3949399e6badd49faa4cba7fe1339f2905d4d503
+//https://circleci.com/gh/Viacheslav21/backend_time.png?circle-token=3949399e6badd49faa4cba7fe1339f2905d4d503
+[![Build Status](http://circleci-badges-max.herokuapp.com/img/gh/Viacheslav21?token=3949399e6badd49faa4cba7fe1339f2905d4d503)](https://circleci.com/projects/gh/Viacheslav21)
 ## Tools 
 1. MySqlServer
 2. Tomcat 7 or upper
