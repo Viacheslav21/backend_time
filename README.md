@@ -1,7 +1,8 @@
 
 ## STATUS 
-![alt text](https://circleci.com/gh/Viacheslav21/backend_time.png?circle-token=4b9aedafef98f500bb90389a3d738b42986d19c3
+![alt text](https://circleci.com/gh/Viacheslav21/backend_time.svg?style=shield&circle-token=4b9aedafef98f500bb90389a3d738b42986d19c3
 )
+
 ## Tools 
 1. MySqlServer
 2. Tomcat 7 or upper
