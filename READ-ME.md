@@ -1,4 +1,5 @@
-Build - https://circleci.com/gh/Slavik21/backend_time.svg?style=shield&circle-token=3949399e6badd49faa4cba7fe1339f2905d4d503
+
+https://circleci.com/gh/Slavik21/backend_time.png?circle-token=3949399e6badd49faa4cba7fe1339f2905d4d503
 ## Tools 
 1. MySqlServer
 2. Tomcat 7 or upper
