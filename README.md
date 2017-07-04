@@ -1,7 +1,7 @@
 
 ## STATUS 
-[![CircleCI](https://circleci.com/gh/Viacheslav21/backend_time.svg?style=shield&circle-token=4b9aedafef98f500bb90389a3d738b42986d19c3](https://circleci.com/gh/Viacheslav21/backend_time)
-)
+[![CircleCI](https://circleci.com/gh/Viacheslav21/backend_time.svg?style=shield&circle-token=4b9aedafef98f500bb90389a3d738b42986d19c3)](https://circleci.com/gh/Viacheslav21/backend_time)
+
 
 ## Tools 
 1. MySqlServer
