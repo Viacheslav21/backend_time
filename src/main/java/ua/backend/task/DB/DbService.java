@@ -56,7 +56,7 @@ public class DbService {
         for (int j = 0; j < times; j++) {
             for (int i = 0; i < countPerTime; i++) {
                 //generate random name and put to array
-                sb.append(firstNames.get(rnd.nextInt(firstNames.size()))).append(" ")
+                sb.append(firstNames.get(rnd.nextInt(firstNames.size())))
                         .append(lastNames.get(rnd.nextInt(lastNames.size())));
                 contacts.add(new ContactEntity(sb.toString()));
                 sb.setLength(0);
